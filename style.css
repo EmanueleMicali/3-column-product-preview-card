@@ -11,8 +11,6 @@ body {
 }
 
 .container {
-
-
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 
@@ -116,6 +114,7 @@ body {
 
     #sedans {
         border-radius: 10px 10px 0 0;
+        
     }
     #luxury {
         border-radius: 0 0 10px 10px;
